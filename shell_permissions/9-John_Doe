@@ -1,0 +1,3 @@
+#!/bin/bash
+su julien
+chmod 753 hello
